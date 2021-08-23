@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: israelshav/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-wfkgxaja
     replicaCount: 2
     hpa:
       enabled: true
